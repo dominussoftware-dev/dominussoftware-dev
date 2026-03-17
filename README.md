@@ -1,91 +1,60 @@
-<h1 align="center">🏢 Dominus Softwares</h1>
+<h1 align="center">⚡ Dominus Software</h1>
 
 <p align="center">
-Automação comercial inteligente há mais de <strong>20 anos</strong>
+<b>Tecnologia que produz resultado</b>
 </p>
 
 <p align="center">
-🚀 Tecnologia • 📊 Gestão • 🧠 Inteligência de Negócio
+<img src="https://img.shields.io/badge/mercado-20%2B%20anos-0a0a0a?style=for-the-badge">
+<img src="https://img.shields.io/badge/automação-comercial-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/software-estável-success?style=for-the-badge">
 </p>
 
 ---
 
-## ✨ Sobre Nós
+## 🚀 Sobre
 
-Há mais de duas décadas desenvolvendo **soluções de automação comercial robustas e confiáveis**.
+A **Dominus Software** desenvolve soluções de **automação comercial** voltadas para eficiência operacional e gestão inteligente.
 
-Nossa missão é transformar tecnologia em **eficiência operacional**, ajudando empresas a controlarem vendas, estoque, financeiro e gestão com precisão.
-
-Atendemos **pequenos, médios e grandes negócios**, oferecendo softwares estáveis, escaláveis e preparados para o crescimento das empresas.
-
-Ao longo dos anos construímos uma reputação baseada em:
-
-✔ estabilidade de sistemas  
-✔ suporte especializado  
-✔ soluções pensadas para o dia a dia do comércio  
-✔ evolução tecnológica constante  
+Com mais de **20 anos de experiência**, nossos sistemas ajudam empresas a manter **controle total do negócio**, transformando tecnologia em resultados reais.
 
 ---
 
-## 🚀 Nossas Soluções
+## 🧠 Sistema Dominus
 
-### 🧾 Sistema de Gestão Comercial (ERP)
+Nossa plataforma oferece um ecossistema completo de gestão empresarial:
 
-Controle completo da operação:
-
-- Vendas
-- Estoque
-- Financeiro
-- Contas a pagar e receber
-- Relatórios gerenciais
-- Controle fiscal
+✔ Controle **financeiro completo**  
+✔ **Cadastros e gestão de clientes/produtos**  
+✔ **Relatórios estratégicos** para tomada de decisão  
+✔ Integração fiscal completa
 
 ---
 
-### 🛒 Frente de Caixa (PDV)
+## 🧾 Emissão de Documentos Fiscais
 
-Alta performance para operações de venda:
+O sistema Dominus possui suporte completo para:
 
-- emissão rápida de cupons
-- integração com impressoras fiscais
-- controle de operadores
-- integração com estoque em tempo real
-- suporte a múltiplos meios de pagamento
+- **NF-e** — Nota Fiscal Eletrônica  
+- **NFC-e** — Nota Fiscal do Consumidor  
+- **NFS-e** — Nota Fiscal de Serviço  
+- **CT-e** — Conhecimento de Transporte  
+- **CT-e OS** — Transporte de Outros Serviços  
 
----
-
-### 📦 Controle de Estoque Inteligente
-
-Gestão eficiente de produtos:
-
-- entrada e saída automatizada
-- inventário simplificado
-- controle por código de barras
-- alertas de estoque mínimo
+Tudo integrado ao fluxo operacional do sistema.
 
 ---
 
-### 📊 Relatórios e Inteligência de Negócio
+## ⚙️ Diferenciais
 
-Transformamos dados em decisões:
-
-- dashboards de vendas
-- análise de faturamento
-- desempenho de produtos
-- indicadores estratégicos
+💼 **Mais de 20 anos no mercado**  
+⚡ **Sistema rápido e confiável**  
+📊 **Gestão completa em um único lugar**  
+🔒 **Segurança e estabilidade de dados**
 
 ---
 
-## 🧠 Diferenciais
-
-💼 **Mais de 20 anos de mercado**  
-⚙ **Sistemas estáveis e consolidados**  
-📈 **Evolução constante da plataforma**  
-🤝 **Suporte especializado**  
-🔒 **Segurança e confiabilidade de dados**
-
----
-
-## 🧑‍💻 Tecnologia
-
-Nossas soluções utilizam tecnologias modernas e consolidadas no mercado.
+<p align="center">
+<b>Dominus Software</b><br>
+Tecnologia que produz resultado
+</p>
