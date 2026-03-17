@@ -1,4 +1,4 @@
-<h1 align="center">🏢 Nome da Empresa</h1>
+<h1 align="center">🏢 Dominus Softwares</h1>
 
 <p align="center">
 Automação comercial inteligente há mais de <strong>20 anos</strong>
